@@ -18,5 +18,5 @@ func CountBits(num uint) int {
 
 
 func main() {
-	fmt.Println(CountBits(10))
+	fmt.Println(Solution3(10))
 }
