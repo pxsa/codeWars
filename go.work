@@ -3,4 +3,5 @@ go 1.20
 use (
 	"./Bit Counting"
 	"./The Supermarket Queue"
+	./not_very_secure
 )
